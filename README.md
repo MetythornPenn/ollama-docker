@@ -1,7 +1,6 @@
 # Ollama Docker Compose Setup
 
 Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment.
-[![Star History Chart](https://api.star-history.com/svg?repos=valiantlynx/ollama-docker&type=Date)](https://star-history.com/#valiantlynx/ollama-docker&Date)
 
 ## Getting Started
 
@@ -80,18 +79,3 @@ To stop the containers and remove the network:
 ```bash
 docker-compose down
 ```
-
-## Contributing
-
-We welcome contributions! If you'd like to contribute to the Ollama Docker Compose Setup, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to the terms of the license. Just give me a mention and some credit
-
-## Contact
-
-If you have any questions or concerns, please contact us at [vantlynxz@gmail.com](mailto:vantlynxz@gmail.com).
-
-Enjoy using Ollama with Docker Compose! 🐳🚀
